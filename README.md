@@ -1,2 +1,4 @@
 # Adaptable-Roller-Gripper
-Design of a single- actuator-driven modular roller gripper, equipped with a passive adaptable mechanism, enabling the efficient grasping and de-stacking of fabrics with varying thickness and material properties
+Welcome to the GitHub page for the Adaptable Roller Gripper, a low-cost, versatile, and modular gripper for efficient grasping and de-stacking a variety of fabrics.
+
+This repo includes the CAD files of the roller gripper. 
